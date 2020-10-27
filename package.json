@@ -1,0 +1,16 @@
+{
+  "name": "mercado_pago_integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mercadopago": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
